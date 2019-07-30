@@ -1,0 +1,23 @@
+{
+  "name": "auth0jslibtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachin-maheshwari/Auth0JSLibTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachin-maheshwari/Auth0JSLibTest/issues"
+  },
+  "homepage": "https://github.com/sachin-maheshwari/Auth0JSLibTest#readme",
+  "dependencies": {
+    "tc-core-library-js": "github:appirio-tech/tc-core-library-js#v2.6.3"
+  }
+}
